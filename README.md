@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - ☕ Core Java Developer
-- 📚 Teaching Java and SQL
+- 📚 Teaching Java 
 - 🌱 Currently Learning DSA
 - 💻 Building Console-Based Java Projects
 - 🎯 Goal: Become a Strong Backend Developer
