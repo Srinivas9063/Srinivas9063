@@ -15,7 +15,7 @@
 - 🌱 Currently Learning DSA
 - 💻 Building Console-Based Java Projects
 - 🎯 Goal: Become a Strong Backend Developer
-- <a href="https://dhannina-portfolio.vercel.app/">Portfolio</a>
+- <a href="https://dhannina-portfolio.vercel.app/" target="_blank">Portfolio</a>
 
 ---
 
